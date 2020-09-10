@@ -79,7 +79,7 @@ Web框架: **Flask(1.1.1)**
 ### 0x002 下载源码安装
 
 ```bash
-git clone https://github.com/ody5sey/Voyager.git
+git clone https://github.com/betrox/Voyager.git
 cd Voyager
 bash run.sh
 ```
